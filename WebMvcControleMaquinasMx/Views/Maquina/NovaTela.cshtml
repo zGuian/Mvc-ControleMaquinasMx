@@ -1,0 +1,13 @@
+﻿@model WebMvcControleMaquinasMx.Models.PacoteViewModel
+
+@{
+    ViewBag.Title = "NOVA TELA";
+}
+
+<h2>@ViewBag.Title</h2>
+
+@using (Html.BeginForm())
+{
+    @Html.ListBoxFor(model => Model.PacotesOptions, Model.PacotesOptions)
+    @Html.ActionLink("Enviar", "NovaTela")
+}

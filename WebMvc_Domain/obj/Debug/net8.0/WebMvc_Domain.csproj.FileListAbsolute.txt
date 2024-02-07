@@ -1,0 +1,15 @@
+C:\ProjetosDev\[PROJETO] ControleMaquinasMx\WebMvc_ControleMaquinasMx\WebMvcControleMaquinasMx\WebMvc_Domain\bin\Debug\net8.0\WebMvc_Domain.deps.json
+C:\ProjetosDev\[PROJETO] ControleMaquinasMx\WebMvc_ControleMaquinasMx\WebMvcControleMaquinasMx\WebMvc_Domain\bin\Debug\net8.0\WebMvc_Domain.dll
+C:\ProjetosDev\[PROJETO] ControleMaquinasMx\WebMvc_ControleMaquinasMx\WebMvcControleMaquinasMx\WebMvc_Domain\bin\Debug\net8.0\WebMvc_Domain.pdb
+C:\ProjetosDev\[PROJETO] ControleMaquinasMx\WebMvc_ControleMaquinasMx\WebMvcControleMaquinasMx\WebMvc_Domain\obj\Debug\net8.0\WebMvc_Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProjetosDev\[PROJETO] ControleMaquinasMx\WebMvc_ControleMaquinasMx\WebMvcControleMaquinasMx\WebMvc_Domain\obj\Debug\net8.0\WebMvc_Domain.AssemblyInfoInputs.cache
+C:\ProjetosDev\[PROJETO] ControleMaquinasMx\WebMvc_ControleMaquinasMx\WebMvcControleMaquinasMx\WebMvc_Domain\obj\Debug\net8.0\WebMvc_Domain.AssemblyInfo.cs
+C:\ProjetosDev\[PROJETO] ControleMaquinasMx\WebMvc_ControleMaquinasMx\WebMvcControleMaquinasMx\WebMvc_Domain\obj\Debug\net8.0\WebMvc_Domain.csproj.CoreCompileInputs.cache
+C:\ProjetosDev\[PROJETO] ControleMaquinasMx\WebMvc_ControleMaquinasMx\WebMvcControleMaquinasMx\WebMvc_Domain\obj\Debug\net8.0\WebMvc_Domain.dll
+C:\ProjetosDev\[PROJETO] ControleMaquinasMx\WebMvc_ControleMaquinasMx\WebMvcControleMaquinasMx\WebMvc_Domain\obj\Debug\net8.0\refint\WebMvc_Domain.dll
+C:\ProjetosDev\[PROJETO] ControleMaquinasMx\WebMvc_ControleMaquinasMx\WebMvcControleMaquinasMx\WebMvc_Domain\obj\Debug\net8.0\WebMvc_Domain.pdb
+C:\ProjetosDev\[PROJETO] ControleMaquinasMx\WebMvc_ControleMaquinasMx\WebMvcControleMaquinasMx\WebMvc_Domain\obj\Debug\net8.0\ref\WebMvc_Domain.dll
+C:\ProjetosDev\[PROJETO] ControleMaquinasMx\WebMvc_ControleMaquinasMx\WebMvcControleMaquinasMx\WebMvc_Domain\bin\Debug\net8.0\WebMvc_Utilities.dll
+C:\ProjetosDev\[PROJETO] ControleMaquinasMx\WebMvc_ControleMaquinasMx\WebMvcControleMaquinasMx\WebMvc_Domain\bin\Debug\net8.0\WebMvc_Utilities.pdb
+C:\ProjetosDev\[PROJETO] ControleMaquinasMx\WebMvc_ControleMaquinasMx\WebMvcControleMaquinasMx\WebMvc_Domain\obj\Debug\net8.0\WebMvc_Domain.csproj.AssemblyReference.cache
+C:\ProjetosDev\[PROJETO] ControleMaquinasMx\WebMvc_ControleMaquinasMx\WebMvcControleMaquinasMx\WebMvc_Domain\obj\Debug\net8.0\WebMvc_Domain.csproj.CopyComplete

@@ -1,0 +1,12 @@
+C:\ProjetosDev\[PROJETO] ControleMaquinasMx\WebMvc_ControleMaquinasMx\WebMvcControleMaquinasMx\WebMvc_Utilities\bin\Debug\net8.0\WebMvc_Utilities.deps.json
+C:\ProjetosDev\[PROJETO] ControleMaquinasMx\WebMvc_ControleMaquinasMx\WebMvcControleMaquinasMx\WebMvc_Utilities\bin\Debug\net8.0\WebMvc_Utilities.dll
+C:\ProjetosDev\[PROJETO] ControleMaquinasMx\WebMvc_ControleMaquinasMx\WebMvcControleMaquinasMx\WebMvc_Utilities\bin\Debug\net8.0\WebMvc_Utilities.pdb
+C:\ProjetosDev\[PROJETO] ControleMaquinasMx\WebMvc_ControleMaquinasMx\WebMvcControleMaquinasMx\WebMvc_Utilities\obj\Debug\net8.0\WebMvc_Utilities.csproj.AssemblyReference.cache
+C:\ProjetosDev\[PROJETO] ControleMaquinasMx\WebMvc_ControleMaquinasMx\WebMvcControleMaquinasMx\WebMvc_Utilities\obj\Debug\net8.0\WebMvc_Utilities.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProjetosDev\[PROJETO] ControleMaquinasMx\WebMvc_ControleMaquinasMx\WebMvcControleMaquinasMx\WebMvc_Utilities\obj\Debug\net8.0\WebMvc_Utilities.AssemblyInfoInputs.cache
+C:\ProjetosDev\[PROJETO] ControleMaquinasMx\WebMvc_ControleMaquinasMx\WebMvcControleMaquinasMx\WebMvc_Utilities\obj\Debug\net8.0\WebMvc_Utilities.AssemblyInfo.cs
+C:\ProjetosDev\[PROJETO] ControleMaquinasMx\WebMvc_ControleMaquinasMx\WebMvcControleMaquinasMx\WebMvc_Utilities\obj\Debug\net8.0\WebMvc_Utilities.csproj.CoreCompileInputs.cache
+C:\ProjetosDev\[PROJETO] ControleMaquinasMx\WebMvc_ControleMaquinasMx\WebMvcControleMaquinasMx\WebMvc_Utilities\obj\Debug\net8.0\WebMvc_Utilities.dll
+C:\ProjetosDev\[PROJETO] ControleMaquinasMx\WebMvc_ControleMaquinasMx\WebMvcControleMaquinasMx\WebMvc_Utilities\obj\Debug\net8.0\refint\WebMvc_Utilities.dll
+C:\ProjetosDev\[PROJETO] ControleMaquinasMx\WebMvc_ControleMaquinasMx\WebMvcControleMaquinasMx\WebMvc_Utilities\obj\Debug\net8.0\WebMvc_Utilities.pdb
+C:\ProjetosDev\[PROJETO] ControleMaquinasMx\WebMvc_ControleMaquinasMx\WebMvcControleMaquinasMx\WebMvc_Utilities\obj\Debug\net8.0\ref\WebMvc_Utilities.dll

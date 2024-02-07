@@ -1,0 +1,54 @@
+﻿@model IEnumerable<WebMvcControleMaquinasMx.Models.Maquinas.MaquinaViewModel>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>@ViewBag.Title</h2>
+
+<p>
+    @Html.ActionLink("Criar novo", "Create")
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Inventario)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Hostname)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Criticidade)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.DataCadastro)
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Inventario)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Hostname)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Criticidade)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.DataCadastro)
+                </td>
+                <td>
+                    <a asp-action="Edit" class="btn btn-primary" asp-route-id="@item.Id">Editar</a>
+                    @Html.ActionLink("Detalhes", "Detalhes", new { id = item.Id })
+                    @Html.ActionLink("Deletar", "Delete", new { id = item.Id })
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+

@@ -1,0 +1,73 @@
+﻿@model WebMvcControleMaquinasMx.Models.Maquinas.CriarMaquinaViewModel
+
+@{
+    ViewBag.Title = "Cadastro de maquina";
+}
+
+<h2>@ViewBag.Title</h2>
+
+<form asp-action="Create" asp-controller="Maquina" method="post">
+    @Html.ValidationSummary(false, "", new { @class = "text-danger" })
+    <div class="alert alert-danger">
+        @Html.ValidationMessage("KeyErroMensagem")
+    </div>
+    <div class="mb-3">
+        @Html.LabelFor(model => model.Inventario)
+        @Html.EditorFor(model => model.Inventario, new { htmlAttributes = new { @class = "form-control", placeholder = "ex: J000000" } })
+    </div>
+    <div class="mb-3">
+        @Html.LabelFor(model => model.Hostname)
+        @Html.EditorFor(model => model.Hostname, new { htmlAttributes = new { @class = "form-control", placeholder = "ex: M154DSX00000" } })
+    </div>
+    <div class="mb-3">
+        <div>
+            @Html.LabelFor(model => model.Ondeso)
+            <div>
+                <label>
+                    @Html.RadioButtonFor(model => model.Ondeso, "true") Sim
+                </label>
+                <label>
+                    @Html.RadioButtonFor(model => model.Ondeso, "false") Não
+                </label>
+            </div>
+        </div>
+        <div class="mb-3">
+            <div class="mb-3">
+                @Html.LabelFor(model => model.Criticidade)
+                <div>                    
+                    <label>
+                        @Html.RadioButtonFor(model => model.Criticidade, "A") A
+                    </label>
+                    <label>
+                        @Html.RadioButtonFor(model => model.Criticidade, "B") B
+                    </label>
+                    <label>
+                        @Html.RadioButtonFor(model => model.Criticidade, "C") C
+                    </label>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="mb-3">
+        <div>
+            <button type="submit" class="btn btn-primary">Criar</button>
+        </div>
+    </div>
+</form>
+
+@section scripts {
+    @* <script>
+        $(document).ready(function () {
+            $('.move').click(function () {
+                var box1 = $(this).closest('.box1');
+                var selectedItems = box1.find('select').find('option:selected');
+                var targetList = $(this).hasClass('glyphicon-arrow-right') ? box1.next('.box1') : box1.prev('.box1');
+
+                if (selectedItems.length > 0) {
+                    selectedItems.remove();
+                    targetList.find('select').append(selectedItems);
+                }
+            });
+        });
+    </script> *@
+}
